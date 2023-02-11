@@ -154,39 +154,6 @@ namespace Integer
                 Console.WriteLine("Yakshanba ");
             Console.ReadKey();*/
 
-            Console.WriteLine("K sonini kiriting:>>");
-             int K = Convert.ToInt32(Console.ReadLine());
-            int  a = K % 7;
-             switch (a)         
-             {
-
-               case 0:
-                 Console.WriteLine("Dushanba ");
-                     break;
-              case 1:
-                 Console.WriteLine("Seshanba ");
-                     break;
-              case 2:
-                 Console.WriteLine("Chorshanba");
-                     break;
-                 case 3: 
-                 Console.WriteLine("Payshanba ");
-                     break;
-                 case 4:
-                 Console.WriteLine("Juma ");
-                     break;
-                 case 5:
-                 Console.WriteLine("Shanba ");
-                     break;
-                 case 6:
-                     Console.WriteLine("Yakshanba ");
-                     break;
-
-              }
-
-
-                 Console.ReadKey();
-
 
             //integer_29
 
